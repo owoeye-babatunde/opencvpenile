@@ -46,7 +46,7 @@ def measure_length_width(image):
     length = max_width
     #print("The length of the image:", max_width  )
     #print("The width is: ", width)
-    return length * 1.05 * 0.0264583333, width * 0.5 * 0.0264583333
+    return length * 1.05 * 0.0264583333, width * 0.6 * 0.0264583333
 
 
 if __name__ == "__main__":
