@@ -52,5 +52,4 @@ def measure_length_width(image):
 
 if __name__ == "__main__":
     measure_length_width(image="penis.jpg")
-    import cv2
-    print(cv2.__version__)
+
